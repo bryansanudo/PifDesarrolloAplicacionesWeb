@@ -9,7 +9,7 @@ const Objetives = () => {
     
     <PageSection
       name="servicios"
-      title="Problematica "
+      title="Objetivos"
       
     >
 
