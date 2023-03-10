@@ -63,11 +63,7 @@ const Services = () => {
         </div>
 
         <div className="w-full lg:w-1/2 flex justify-center">
-          <a
-            href="https://www.instagram.com/p/CogCoiuuub4/"
-            target="_blank"
-            rel="noreferrer"
-          >
+         
             <video
               src={servicesVideo}
               loop
@@ -77,7 +73,7 @@ const Services = () => {
               playsInline
               className="rounded-lg shadow-xl shadow-black h-[400px] lg:h-[500px]"
             ></video>
-          </a>
+          
         </div>
       </div>
     </PageSection>
