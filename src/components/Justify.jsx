@@ -9,7 +9,7 @@ const Justify = () => {
     
     <PageSection
       name="Justificacion"
-      title="Problematica "
+      title="Justificacion "
       
     >
 
