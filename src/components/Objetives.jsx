@@ -8,10 +8,10 @@ const Objetives = () => {
   return (
     
     <PageSection
-      name="servicios"
+      name="Objetivos"
       title="Objetivos"
       
-    >
+    >  
 
         <div className="grid gap-12 md:px-12 grid-cols-1  ">
           

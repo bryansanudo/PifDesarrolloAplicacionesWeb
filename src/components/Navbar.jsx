@@ -25,6 +25,10 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
     },
     {
       id: 5,
+      link: "Objetivos",
+    },
+    {
+      id: 6,
       link: "Estado del arte",
     },
   ];
