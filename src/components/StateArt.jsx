@@ -38,7 +38,7 @@ const StateArt = () => {
             
            
           <button className="flex  items-center justify-center  " onClick={handleClickPrev}>
-                  <GrLinkPrevious size={40} />
+                  <GrLinkPrevious size={40} fill={"#173557"} />
               </button>
           <img
               src={ARRAY_IMG[index]}
@@ -51,7 +51,7 @@ const StateArt = () => {
                   className=" flex  items-center justify-center"
                   onClick={handleClickNext}
               >
-                  <GrLinkNext size={40} />
+                  <GrLinkNext size={40} fill={"#173557"} />
               </button>
          
          
